@@ -1,4 +1,4 @@
-                    CHALLENGES FACED
+## CHALLENGES FACED
 Question c, e and g were the hardest
 
 Question_a (greet_user ) was simple for me because I have done something similar to it before so I didn’t take to long with it, I used 5 minutes
